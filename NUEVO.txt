@@ -1,3 +1,0 @@
-Mi primer programa hecho en Java
-
-Programa actualizado en python
